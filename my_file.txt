@@ -1,1 +1,2 @@
 my_file line 1
+my_file line 2

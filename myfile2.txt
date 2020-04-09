@@ -1,1 +1,1 @@
-myfile2 line 1
+myfile2 line 1 - Added to existing line 1
